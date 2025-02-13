@@ -38,8 +38,6 @@ Contributions are welcome! Please follow these guidelines:
 3. Make your changes and ensure they follow the repository’s style and quality standards.
 4. Open a pull request detailing your changes.
 
-For additional details, please review our [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ## Contact
 Maintained by [muhammadhamzagova666](https://github.com/muhammadhamzagova666). For questions or suggestions, please open an issue.
 
